@@ -1,0 +1,3 @@
+[submodule "src/tello_ros"]
+	path = src/tello_ros
+	url = git@github.com:phinx110/tello_ros.git
