@@ -6,7 +6,7 @@ see submodule flock2 for the list of requirements
 
 ```
 source /opt/ros/crystal/setup.bash
-cd flock2_new_ws
+cd flock2_ws
 colcon build --event-handlers console_direct+ --packages-skip tello_gazebo --cmake-args -DCMAKE_BUILD_TYPE=RelWithDebInfo
 source ~/flock2_new_ws/install/setup.bash
 ```
