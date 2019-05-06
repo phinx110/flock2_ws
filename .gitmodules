@@ -16,3 +16,6 @@
 [submodule "src/ros2_raw_keyboard_publisher"]
 	path = src/ros2_raw_keyboard_publisher
 	url = git@github.com:phinx110/ros2_raw_keyboard_publisher.git
+[submodule "src/tello_ctrl_cpp"]
+	path = src/tello_ctrl_cpp
+	url = git@github.com:phinx110/tello_ctrl_cpp.git
