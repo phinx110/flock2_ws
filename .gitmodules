@@ -1,18 +1,12 @@
 [submodule "src/tello_ros"]
 	path = src/tello_ros
 	url = git@github.com:phinx110/tello_ros.git
-[submodule "src/flock2"]
-	path = src/flock2
-	url = git@github.com:phinx110/flock2.git
 [submodule "src/fiducial_vlam"]
 	path = src/fiducial_vlam
 	url = https://github.com/ptrmu/fiducial_vlam.git
 [submodule "src/odom_filter"]
 	path = src/odom_filter
 	url = https://github.com/clydemcqueen/odom_filter.git
-[submodule "src/tello_ctrl"]
-	path = src/tello_ctrl
-	url = git@github.com:phinx110/tello_ctrl.git
 [submodule "src/ros2_raw_keyboard_publisher"]
 	path = src/ros2_raw_keyboard_publisher
 	url = git@github.com:phinx110/ros2_raw_keyboard_publisher.git
